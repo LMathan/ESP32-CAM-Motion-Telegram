@@ -9,8 +9,8 @@ const char* ssid = "1";  // Change this to your WiFi SSID
 const char* password = "123456778";  // Change this to your WiFi password
 
 // Telegram Bot Credentials
-String token = "8094260678:AAEd8X2isZaZLcbFdTm7CuOG3oJz9PFHvoo";  
-String chat_id = "6784682990";
+String token = "*******************************";  
+String chat_id = "**************";
 
 // Camera Model AI Thinker (ESP32-CAM) Pin Configuration
 #define PWDN_GPIO_NUM     32
